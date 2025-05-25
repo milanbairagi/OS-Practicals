@@ -1,0 +1,6 @@
+.vscode
+practice/*
+*.exe
+*.pdf
+*.zip
+*.docx
